@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Jordalenko/jest1#readme",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^26.6.3"
   }
 }
